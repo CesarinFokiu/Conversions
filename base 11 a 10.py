@@ -1,6 +1,3 @@
-from email.mime import base
-
-
 def is_base11_number( base11 ):
     split_base11 = base11.split(".")
 
